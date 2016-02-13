@@ -5,4 +5,3 @@ Old and experimental firmware for ATMega2560/2561 with Wiz610wi/RN131 wifi modul
 
 New changes:
 * new feature 1
-* new feature 2
